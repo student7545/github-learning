@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 apple
 strewberries
 pinepples
 banana
+=======
+shaw shankredemptation
+matrix
+good will hunting
+>>>>>>> movies
